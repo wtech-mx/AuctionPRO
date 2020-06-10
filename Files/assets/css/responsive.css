@@ -1,0 +1,195 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+/* Starting of charity service area */
+.single-charity-service-area h3 {font-size: 16px;}
+.single-charity-service-area {padding: 25px;}
+/* Ending of charity service area */
+
+/* Starting of help fund area */
+.helping-fund-area h1 {font-size: 20px;}
+.boxed-btn {margin-top: 0;}
+/* Ending of help fund area */
+
+/*  Starting of Blogs Details  */
+.post-sidebar-area li a {font-size: 14px;}
+/*  Ending of Blogs Details  */
+
+/*  Starting of Login area area  */ 
+.login-form {
+    padding: 50px;
+    padding-top: 100px;
+}
+/*  Ending of Login area area  */
+
+/*  Starting of Blogs  */
+.blog-text .blog-meta-text {height: 150px;}
+.blog-text {height: 340px;}
+/*  Ending of Blogs  */
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+ .section-title h2 {font-size: 24px;}
+
+ .boxed-btn {margin-top: 15px;}
+ .header-top-area li {padding: 0 8px;}
+
+ .padding-top-100 {padding-top: 140px;}
+ .mainmenu li a {padding-left: 30px;}
+
+ /*  Starting of counter area */
+.single-counter-box {margin-bottom: 30px;}
+/*  Ending of counter area */
+
+/* Starting of charity service area */
+.single-charity-service-area h3 {font-size: 16px;}
+.single-charity-service-area {padding: 15px;}
+/* Ending of charity service area */
+
+/* Starting of help fund area */
+.helping-fund-area h1 {font-size: 20px;}
+.boxed-btn {margin-top: 0;}
+/* Ending of help fund area */
+
+/*  Starting of footer area  */
+.footer-email-subs {margin-top: 30px;}
+.single-footer-area {margin-bottom: 30px;}
+.section-padding.footer-area-wrapper {padding-bottom: 30px;}
+/*  Ending of footer area  */
+
+/*  Starting of Logo Carousel area  */
+.logo-carousel-wrapper .owl-carousel .owl-controls .owl-nav .owl-prev, 
+.logo-carousel-wrapper .owl-carousel .owl-controls .owl-nav .owl-next {
+  top: 34px;
+}
+/*  Ending of Logo Carousel area  */
+
+/*  Starting of subscribe newsletter area  */
+.subscribe-newsletter-area form button {width: 30%;font-size: 13px;}
+/*  Ending of subscribe newsletter area  */
+
+/*  Starting of Blogs  */
+.blog-text .blog-meta-text {height: 130px;}
+.blog-text {height: 325px;}
+/*  Ending of Blogs  */
+
+/*  Starting of Auctions area  */
+.auction-bid-area .col-md-8 {border-right: 0; border-bottom: 30px solid #f1f1f1;}
+/*  Ending of Auctions area  */
+
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+  .section-padding {padding: 50px 0;}
+	.top-column-left {display: none;}
+	.top-column-right {text-align: left;}
+	.header-top-area li {padding: 0 4px;}
+	.mainmenu {display: none;}
+ 	.slicknav_menu {
+ 		display: block; 
+ 		background-color: transparent; 
+ 		position: absolute; 
+ 		left: 0; 
+ 		top: -10px; 
+ 		z-index: 99;
+ 		width: 100%;
+ 	}
+	.logo {text-align: right;}
+ 	ul.gallery-menu li {margin-bottom: 5px;}
+.social-sharing a {padding: 8px 6px 8px; margin-right: 5px;}
+.section-padding.blog-post-wrapper {padding: 50px 0;}
+.section-padding.blog-post-wrapper .section-title h2 {font-size: 25px;}
+
+.padding-top-100 {padding-top: 40px;}
+.product-faq .panel-heading a {font-size: 16px;}
+.faq, .contact-area-wrapper {padding-bottom: 100px;}
+.login-area {padding-bottom: 25px;}
+
+/* Starting of Slider area */
+.carousel-item-table-cell h1 {font-size: 50px;}
+.carousel-item-table-cell {font-size: 15px;}  
+.homepage-slides .owl-dots {bottom: 20px;}
+/* Ending of Slider area */  
+
+/* Starting of service area */
+.service-area-wrapper {padding-top: 40px; padding-bottom: 0;}
+/* Ending of service area */
+
+/*  Starting of counter area */
+.single-counter-box {margin: 30px 0;}
+.conuter-up-textArea {padding-top: 0;}
+/*  Ending of counter area */
+
+/* Starting of testimonial area */
+.testimonial-author h4 strong {font-size: 16px;}
+.home-testimonial-wrapper .owl-carousel .owl-controls .owl-nav .owl-prev {margin-right: 5px;}
+.testimonial-section .owl-nav {right: 0; bottom: 18px;}
+.testimonial-author h4 {padding-left: 5px;}
+/* Ending of testimonial area */
+
+/* Starting of charity service area */
+.charity-service-area-wrapper {padding: 30px 0 0 0;}
+.single-charity-service-area {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin-bottom: 30px;
+}
+/* Ending of charity service area */
+
+/* Starting of help fund area */
+.helping-fund-area h1 {font-size: 20px; margin-top: 20px;}
+/* Ending of help fund area */
+
+/* Starting of Contact area */
+.contact-info i {left: -15px;}
+.contact-info {padding-left: 20px;}
+/* Ending of Contact area */
+
+/*  Starting of footer area  */
+.single-footer-area {margin-bottom: 20px; margin-top: 0;}
+.section-padding.footer-area-wrapper {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.footer-social-links li a {margin-right: 8px;}
+.copy-right-side, .footer-social-links {text-align: center;}
+/*  Ending of footer area  */
+
+/*  Starting of Volunteer registration area */
+.volunteer-registration-wrapper img {margin-bottom: 30px;}
+.volunteer-registration-wrapper {margin-bottom: 50px;}
+/*  Ending of Volunteer registration area */
+
+/*  Starting of Login area area  */ 
+ .login-form {
+    padding: 10px;
+    padding-top: 100px;
+}
+/*  Ending of Login area area  */
+
+/*  Starting of subscribe newsletter area  */
+.subscribe-newsletter-area form button {width: 35%; font-size: 12px;}
+.subscribe-newsletter-area form input {width: 65%;}
+.subscribe-newsletter-area {padding: 20px 15px 20px 15px;top: -100px;}
+.subscribe-newsletter-area p {margin-bottom: 15px;}
+.subscribe-newsletter-wrapper {padding-top: 30px;padding-bottom: 30px;}
+/*  Ending of subscribe newsletter area  */
+
+/*  Starting of Blogs  */
+.blog-text .blog-meta-text {height: 155px;}
+.blog-text {height: 345px;}
+/*  Ending of Blogs  */
+
+/*  Starting of Auctions area  */
+.auction-bid-area .col-md-8 {border-right: 0; border-bottom: 30px solid #fff;}
+/*  Ending of Auctions area  */
+
+
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+}
